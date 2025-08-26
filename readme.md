@@ -1,4 +1,4 @@
-# Smol MEV-Resistant Sequencer Demo
+# Smol MEV-Resistant Sequencer (WIP)
 
 A simple demonstration of how transaction ordering affects MEV (Maximum Extractable Value) in blockchain sequencers.
 
